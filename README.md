@@ -1,6 +1,6 @@
 # Airbnb clone
 
-This project is part of the Scrimba [React](https://scrimba.com/playlist/pqQgrcN) course. It aims to create a Airbnb Experiences clone. 
+This project is part of the Scrimba [React](https://scrimba.com/playlist/pqQgrcN) course. It aims to create a Airbnb Experiences website clone. 
 
 ## About The Project
 
